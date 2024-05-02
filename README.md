@@ -34,10 +34,3 @@ To explore the dashboard:
 
 Contributions to enhance the dashboard or add new features are welcome. If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Special thanks to Kaggle for providing the Netflix dataset used in this project.
